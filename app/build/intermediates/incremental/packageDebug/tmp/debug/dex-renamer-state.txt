@@ -1,0 +1,7 @@
+#Sat May 18 20:39:51 IST 2019
+base.0=D\:\\College\\GitHub\\TataMakerthon\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\College\\GitHub\\TataMakerthon\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out

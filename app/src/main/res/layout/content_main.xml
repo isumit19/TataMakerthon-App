@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_margin"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/activity_main">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="ZINE"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="@dimen/activity_margin"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center">
+
+
+        <!-- To display picture taken -->
+        <ImageView
+            android:id="@+id/imgPreview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop"
+
+            android:src="@drawable/icon"/>
+
+        <!-- To preview video recorded -->
+
+    </LinearLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter IP Address"
+        android:inputType="numberDecimal"
+        android:digits="1234567890."
+        android:singleLine="true"
+        android:imeOptions="actionDone"
+        android:id="@+id/ip"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <!-- Capture picture button -->
+        <Button
+
+            android:id="@+id/captureImage"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/dimen_8"
+            android:layout_weight="1"
+            android:background="@color/colorPrimary"
+            android:foreground="?attr/selectableItemBackground"
+            android:text="@string/btn_take_picture"
+            android:textColor="@android:color/white" />
+
+
+    </LinearLayout>
+</LinearLayout>

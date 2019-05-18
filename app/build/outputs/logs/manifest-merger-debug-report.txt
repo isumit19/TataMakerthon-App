@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:grantUriPermissions
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:37:13-47
+	android:authorities
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:35:13-60
+	android:exported
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:34:13-67
+manifest
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [com.karumi:dexter:4.2.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fc57df4eb1d879c5899e1a0c5161810d\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d88a739321a0bade3282b20a9ab7dc00\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\c9e165627d87a349aa67a4a919087988\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d2d3a7d05205438544f2d3cd5d329401\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\52aaa9a1e95784b366ecb734f5c32786\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\4062c3e2fd589652e468d2c99907245d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\55de65346962006b2450d1418dfb9bee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\07a6ea0eb5c4bb61e38496cefc62763a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fb6b78e7e9e730a582b5cb3c538601a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\1542c306c2a3ba2a0395deb9caea5e77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d3ef95bfa0121ba2e2dd72b520b50efb\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\b0cbf88cb2e92c08f822dac172868f6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f06ff9b698eeb10ba4bb9fd6dea2463c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\c7f1dde239923a53c2e353929664b476\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f77b51e2987b98dfc8b30fb56c347292\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.INTERNET
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:13:5-44:19
+MERGED from [com.karumi:dexter:4.2.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fc57df4eb1d879c5899e1a0c5161810d\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:4.2.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fc57df4eb1d879c5899e1a0c5161810d\AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d88a739321a0bade3282b20a9ab7dc00\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d88a739321a0bade3282b20a9ab7dc00\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d2d3a7d05205438544f2d3cd5d329401\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d2d3a7d05205438544f2d3cd5d329401\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\52aaa9a1e95784b366ecb734f5c32786\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\52aaa9a1e95784b366ecb734f5c32786\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\4062c3e2fd589652e468d2c99907245d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\4062c3e2fd589652e468d2c99907245d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f06ff9b698eeb10ba4bb9fd6dea2463c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f06ff9b698eeb10ba4bb9fd6dea2463c\AndroidManifest.xml:29:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f77b51e2987b98dfc8b30fb56c347292\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f77b51e2987b98dfc8b30fb56c347292\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:15:9-38
+	android:allowBackup
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:19:9-40
+activity#in.co.zine.com.tatamakerthon.MainActivity
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:27:27-74
+activity#in.co.zine.com.tatamakerthon.Croped
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:30:19-41
+activity#in.co.zine.com.tatamakerthon.ImageCropActivity
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:31:9-55
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:31:19-52
+activity#in.co.zine.com.tatamakerthon.Main2Activity
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:43:9-60
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:43:19-48
+uses-sdk
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:4.2.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fc57df4eb1d879c5899e1a0c5161810d\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:4.2.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fc57df4eb1d879c5899e1a0c5161810d\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d88a739321a0bade3282b20a9ab7dc00\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d88a739321a0bade3282b20a9ab7dc00\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\c9e165627d87a349aa67a4a919087988\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\c9e165627d87a349aa67a4a919087988\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d2d3a7d05205438544f2d3cd5d329401\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d2d3a7d05205438544f2d3cd5d329401\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\52aaa9a1e95784b366ecb734f5c32786\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\52aaa9a1e95784b366ecb734f5c32786\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\4062c3e2fd589652e468d2c99907245d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\4062c3e2fd589652e468d2c99907245d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\55de65346962006b2450d1418dfb9bee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\55de65346962006b2450d1418dfb9bee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\07a6ea0eb5c4bb61e38496cefc62763a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\07a6ea0eb5c4bb61e38496cefc62763a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fb6b78e7e9e730a582b5cb3c538601a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fb6b78e7e9e730a582b5cb3c538601a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\1542c306c2a3ba2a0395deb9caea5e77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\1542c306c2a3ba2a0395deb9caea5e77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d3ef95bfa0121ba2e2dd72b520b50efb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d3ef95bfa0121ba2e2dd72b520b50efb\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\b0cbf88cb2e92c08f822dac172868f6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\b0cbf88cb2e92c08f822dac172868f6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f06ff9b698eeb10ba4bb9fd6dea2463c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f06ff9b698eeb10ba4bb9fd6dea2463c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\c7f1dde239923a53c2e353929664b476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\c7f1dde239923a53c2e353929664b476\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f77b51e2987b98dfc8b30fb56c347292\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f77b51e2987b98dfc8b30fb56c347292\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d88a739321a0bade3282b20a9ab7dc00\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+		INJECTED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:38:13-40:54
+	android:resource
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:40:17-51
+	android:name
+		ADDED from D:\College\GitHub\TataMakerthon\app\src\main\AndroidManifest.xml:39:17-67
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:4.2.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fc57df4eb1d879c5899e1a0c5161810d\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:4.2.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fc57df4eb1d879c5899e1a0c5161810d\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:4.2.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\fc57df4eb1d879c5899e1a0c5161810d\AndroidManifest.xml:28:13-60
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d88a739321a0bade3282b20a9ab7dc00\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\52aaa9a1e95784b366ecb734f5c32786\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\52aaa9a1e95784b366ecb734f5c32786\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\4062c3e2fd589652e468d2c99907245d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\4062c3e2fd589652e468d2c99907245d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d3ef95bfa0121ba2e2dd72b520b50efb\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d3ef95bfa0121ba2e2dd72b520b50efb\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f06ff9b698eeb10ba4bb9fd6dea2463c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f06ff9b698eeb10ba4bb9fd6dea2463c\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d88a739321a0bade3282b20a9ab7dc00\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\d88a739321a0bade3282b20a9ab7dc00\AndroidManifest.xml:26:9-47
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f77b51e2987b98dfc8b30fb56c347292\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f77b51e2987b98dfc8b30fb56c347292\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Sumit\.gradle\caches\transforms-2\files-2.1\f77b51e2987b98dfc8b30fb56c347292\AndroidManifest.xml:26:13-58
