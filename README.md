@@ -4,7 +4,7 @@ An android application that is used in the project for performing the following 
 
 # Screenshots
 
-<img src="Screenshots/1.png" width="170">  <img src="Screenshots/2.png" width="170">  <img src="Screenshots/3.png" width="170">  <img src="Screenshots/4.png" width="170">  <img src="Screenshots/5.png" width="170">
+<img src="Screenshots/1.png" width="170"> <img src="Screenshots/2.png" width="170"> <img src="Screenshots/3.png" width="170"> <img src="Screenshots/4.png" width="170"> <img src="Screenshots/5.png" width="170">
 
 
 https://docs.google.com/document/d/1OhixD92MSdEeoMHW1w8XtnOULdEBlTycy6yQiRJk1Zg/
